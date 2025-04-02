@@ -1,0 +1,12 @@
+{
+    "3": {
+        "Zombie Stade Avancé": {
+            "size": 200,
+            "hp": 250,
+            "damage": 64,
+            "probability": 1.0,
+            "image_left": "Sprite/monstre/zombie_boss_left.png",
+            "image_right": "Sprite/monstre/zombie_boss_right.png"
+        }
+    }
+}

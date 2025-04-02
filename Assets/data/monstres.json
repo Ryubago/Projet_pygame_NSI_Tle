@@ -1,0 +1,266 @@
+{
+    "1": {
+        "Zombie lv1": {
+            "size": 60,
+            "hp": 20,
+            "damage": 15,
+            "probability": 0.45,
+            "image_left": "Sprite/monstre/zombie_left.png",
+            "image_right": "Sprite/monstre/zombie_right.png",
+            "category": "Biologique"
+        },
+        "Grosse Araignée lv1": {
+            "size": 60,
+            "hp": 38,
+            "damage": 20,
+            "probability": 0.3,
+            "image_left": "Sprite/monstre/spider_left.png",
+            "image_right": "Sprite/monstre/spider_right.png",
+            "category": "Poison"
+        },
+        "Ours lv1": {
+            "size": 100,
+            "hp": 100,
+            "damage": 35,
+            "probability": 0.1,
+            "image_left": "Sprite/monstre/bear_left.png",
+            "image_right": "Sprite/monstre/bear_right.png",
+            "category": "Cogneur"
+        },
+
+        
+        "Nercysus lv1": {
+            "size": 58,
+            "hp": 60,
+            "damage": 30,
+            "probability": 0.2,
+            "image_left": "Sprite/monstre/Nercysus_left.png",
+            "image_right": "Sprite/monstre/Nercysus_right.png",
+            "category": "Sombre"
+        },
+        "Vampire Humain lv1": {
+            "size": 80,
+            "hp": 100,
+            "damage": 45,
+            "probability": 0.1,
+            "image_left": "Sprite/monstre/human_vampire_left.png",
+            "image_right": "Sprite/monstre/human_vampire_right.png",
+            "category": "Poison"
+        }
+    },
+    "2": {
+        "Zombie lv2": {
+            "size": 60,
+            "hp": 30,
+            "damage": 20,
+            "probability": 0.2,
+            "image_left": "Sprite/monstre/zombie_left.png",
+            "image_right": "Sprite/monstre/zombie_right.png",
+            "category": "Biologique",
+            "category2": "Spectral"
+        },
+        "Grosse Araignée lv2": {
+            "size": 60,
+            "hp": 40,
+            "damage": 24,
+            "probability": 0.4,
+            "image_left": "Sprite/monstre/spider_left.png",
+            "image_right": "Sprite/monstre/spider_right.png",
+            "category": "Poison",
+            "category2": "Cogneur"
+        },
+        "Ours lv2": {
+            "size": 100,
+            "hp": 100,
+            "damage": 35,
+            "probability": 0.15,
+            "image_left": "Sprite/monstre/bear_left.png",
+            "image_right": "Sprite/monstre/bear_right.png",
+            "category": "Cogneur",
+            "category2": "Terre"
+        },
+
+        
+        "Nercysus lv2": {
+            "size": 58,
+            "hp": 70,
+            "damage": 40,
+            "probability": 0.1,
+            "image_left": "Sprite/monstre/Nercysus_left.png",
+            "image_right": "Sprite/monstre/Nercysus_right.png",
+            "category": "Sombre",
+            "category2": "Spectral"
+        },
+        "Vampire Humain lv2": {
+            "size": 80,
+            "hp": 100,
+            "damage": 52,
+            "probability": 0.2,
+            "image_left": "Sprite/monstre/human_vampire_left.png",
+            "image_right": "Sprite/monstre/human_vampire_right.png",
+            "category": "Poison",
+            "category2": "Givre"
+        },
+        "Crabe Alien lv2 ":{
+            "size": 60,
+            "hp": 80,
+            "damage":38,
+            "probability": 0.1,
+            "image_left": "Sprite/monstre/alien_crabe_left.png",
+            "image_right": "Sprite/monstre/alien_crabe_right.png",
+            "category": "Mystique",
+            "category2": "Minéral"
+        }
+    },
+    "3": {
+        "Goule lv3": {
+            "size": 76,
+            "hp": 130,
+            "damage": 51,
+            "probability": 0.2,
+            "image_left": "Sprite/monstre/goule_left.png",
+            "image_right": "Sprite/monstre/goule_right.png",
+            "category": "Flamme",
+            "category2": "Sombre"
+        },
+        "Grosse Araignée lv3": {
+            "size": 60,
+            "hp": 45,
+            "damage": 30,
+            "probability": 0.1,
+            "image_left": "Sprite/monstre/spider_left.png",
+            "image_right": "Sprite/monstre/spider_right.png",
+            "category": "Poison",
+            "category2": "Draconique"
+        },
+        "Ours lv3": {
+            "size": 100,
+            "hp": 120,
+            "damage": 42,
+            "probability": 0.3,
+            "image_left": "Sprite/monstre/bear_left.png",
+            "image_right": "Sprite/monstre/bear_right.png",
+            "category": "Cogneur",
+            "category2": "Minéral"
+        },
+
+        
+        "Nercysus lv3": {
+            "size": 58,
+            "hp": 80,
+            "damage": 48,
+            "probability": 0.3,
+            "image_left": "Sprite/monstre/Nercysus_left.png",
+            "image_right": "Sprite/monstre/Nercysus_right.png",
+            "category": "Sombre",
+            "category2": "Spectral"
+        },
+        "Vampire Humain lv3": {
+            "size": 80,
+            "hp": 110,
+            "damage": 56,
+            "probability": 0.5,
+            "image_left": "Sprite/monstre/human_vampire_left.png",
+            "image_right": "Sprite/monstre/human_vampire_right.png",
+            "category": "Poison",
+            "category2": "Givre"
+        },
+        "Crabe Alien lv3":{
+            "size": 60,
+            "hp": 90,
+            "damage":51,
+            "probability": 0.4,
+            "image_left": "Sprite/monstre/alien_crabe_left.png",
+            "image_right": "Sprite/monstre/alien_crabe_right.png",
+            "category": "Mystique",
+            "category2": "Draconique"
+        },
+        "Zombie Pirate lv3":{
+            "size": 60,
+            "hp": 45,
+            "damage":38,
+            "probability": 0.4,
+            "image_left": "Sprite/monstre/zombie_pirate_left.png",
+            "image_right": "Sprite/monstre/zombie_pirate_right.png",
+            "category": "Biologique",
+            "category2": "Sombre"
+        }
+    },
+    "4": {
+        "Goule lv4": {
+            "size": 76,
+            "hp": 150,
+            "damage": 58,
+            "probability": 0.2,
+            "image_left": "Sprite/monstre/goule_left.png",
+            "image_right": "Sprite/monstre/goule_right.png",
+            "category": "Flamme",
+            "category2": "Sombre"
+        },
+        
+        "Ours lv4": {
+            "size": 100,
+            "hp": 120,
+            "damage": 42,
+            "probability": 0.4,
+            "image_left": "Sprite/monstre/bear_left.png",
+            "image_right": "Sprite/monstre/bear_right.png",
+            "category": "Cogneur",
+            "category2": "Minéral"
+        },
+
+        
+        "Nercysus lv4": {
+            "size": 58,
+            "hp": 80,
+            "damage": 58,
+            "probability": 0.3,
+            "image_left": "Sprite/monstre/Nercysus_left.png",
+            "image_right": "Sprite/monstre/Nercysus_right.png",
+            "category": "Sombre",
+            "category2": "Spectral"
+        },
+        "Vampire Humain lv4": {
+            "size": 80,
+            "hp": 130,
+            "damage": 58,
+            "probability": 0.5,
+            "image_left": "Sprite/monstre/human_vampire_left.png",
+            "image_right": "Sprite/monstre/human_vampire_right.png",
+            "category": "Poison",
+            "category2": "Givre"
+        },
+        "Crabe Alien lv4":{
+            "size": 60,
+            "hp": 100,
+            "damage":56,
+            "probability": 0.4,
+            "image_left": "Sprite/monstre/alien_crabe_left.png",
+            "image_right": "Sprite/monstre/alien_crabe_right.png",
+            "category": "Mystique",
+            "category2": "Draconique"
+        },
+        "Ant Alien Lv4":
+        {
+            "size": 80,
+            "hp": 200,
+            "damage":30,
+            "probability": 0.1,
+            "image_left": "Sprite/monstre/Ant_Alien_left.png",
+            "image_right": "Sprite/monstre/Ant_Alien_right.png",
+            "category": "Mystique",
+            "category2": "Draconique"
+        },
+        "champignon vivant":
+        {
+            "size": 50,
+            "hp": 75,
+            "damage": 25,
+            "probability": 0.6,
+            "image_left": "Sprite/monstre/Mushroom_left.png",
+            "image_right": "Sprite/monstre/Mushroom_right.png",
+            "category": "Mystique",
+            "category2": "Draconique"
+        }
+    }
+}

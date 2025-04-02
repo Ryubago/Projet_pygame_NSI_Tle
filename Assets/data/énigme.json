@@ -1,0 +1,139 @@
+[
+    {
+        "riddle": "Quel est le langage de programmation le plus utilisé ?",
+        "answer": "JavaScript"
+    },
+    {
+        "riddle": "J'ai inventé le premier ordinateur. Qui suis-je ? (nom de famille)",
+        "answer": "Babbage"
+    },
+    {
+        "riddle": "Quel langage utilise-t-on principalement pour créer la structure d'une page web ?",
+        "answer": "HTML"
+    },
+    {
+        "riddle": "Qu'est-ce qu'un logiciel qui permet de naviguer sur le web ?",
+        "answer": "Navigateur"
+    },
+    {
+        "riddle": "Comment appelle-t-on une page web frauduleuse qui cherche à obtenir des informations personnelles ?",
+        "answer": "Phishing"
+    },
+    {
+        "riddle": "Quel est le nom général donné aux personnes qui attaquent des systèmes informatiques ?",
+        "answer": "Hackers"
+    },
+    {
+        "riddle": "Qu'est-ce qu'un hacker qui entre dans un jeu vidéo pour en modifier le fonctionnement ?",
+        "answer": "Tricheur"
+    },
+    {
+        "riddle": "Quel est le risque de télécharger des mods non officiels pour un jeu vidéo ?",
+        "answer": "Virus"
+    },
+    {
+        "riddle": "Quel est le risque de cliquer sur un lien dans un email qui promet une offre trop belle pour être vraie ?",
+        "answer": "Arnaque"
+    },
+    {
+        "riddle": "En cas de cyberharcèlement, quel est le numéro de téléphone national et gratuit ?",
+        "answer": "3018"
+    },
+    {
+        "riddle": "Quels mots désignent une information personnelle qui doit être protégée ? (1 mot)",
+        "answer": "Données"
+    },
+    {
+        "riddle": "Quel composant a révolutionné la taille et la puissance des ordinateurs ? (1 mot)",
+        "answer": "Microprocesseur"
+    },
+    {
+        "riddle": "Quel réseau a révolutionné la communication à distance ?",
+        "answer": "Internet"
+    },
+    {
+        "riddle": "Quel terme anglais désigne de fausses informations propagées dans les médias ? (2 mot)",
+        "answer": "Fake news"
+    },
+    {
+        "riddle": "Les réseaux sociaux influencent nos choix et nos opinions grâce à des ...",
+        "answer": "Algorithmes"
+    },
+    {
+        "riddle": "Quel réseau social, lancé en 2004, était initialement réservé aux étudiants d'universités américaines ?",
+        "answer": "Facebook"
+    },
+    {
+        "riddle": "En quelle année le milliardaire républicain Elon Musk a racheté Twitter ?",
+        "answer": "2022"
+    },
+    {
+        "riddle": "En quelle année le premier iPhone a-t-il été présenté par Steve Jobs ?",
+        "answer": "2007"
+    },
+    {
+        "riddle": "Quel est l'acronyme que l'on donne pour les 5 plus grandes multinationales du net ?",
+        "answer": "GAFAM"
+    },
+    {
+        "riddle": "Combien d'heures un adolescent de moins de 12 ans passe-t-il en moyenne sur son téléphone portable par jour ?",
+        "answer": "4"
+    },
+    {
+        "riddle": "Comment appelle-t-on une adresse web unique identifiant une page web ?",
+        "answer": "URL"
+    },
+    {
+        "riddle": "Quel est le moteur de recherche le plus utilisé ?",
+        "answer": "Google"
+    },
+    {
+        "riddle": "Comment appelle-t-on l'acte de copier du contenu sans autorisation ?",
+        "answer": "Plagiat"
+    },
+    {
+        "riddle": "Qu'est-ce qu'on appelle ces petits fichiers texte que les sites web déposent sur ton ordinateur pour personnaliser ton expérience en ligne et se souvenir de tes préférences ?",
+        "answer": "Cookies"
+    },
+    {
+        "riddle": "Quel est l'acronyme pour un réseau informatique sans fil ?",
+        "answer": "Wi-Fi"
+    },
+    {
+        "riddle": "Quel système d'exploitation est connu pour sa marque avec une pomme ?",
+        "answer": "macOS"
+    },
+    {
+        "riddle": "Quelle est le nom de environnement de développement intégré pour le langage Python ?",
+        "answer": "IDLE"
+    },
+    {
+        "riddle": "Quelle protocole permet de crypter les données sur un site web ?",
+        "answer": "HTTPS"
+    },
+    {
+        "riddle": "Quel est le nom du 1er programme informatique capable de jouer aux échecs et de battre les champions humains ?",
+        "answer": "Deep Blue"
+    },
+    {
+        "riddle": "Quel était le nom du pays qui a lancé l'un des premiers programmes spatiaux informatiques pour envoyer des satellites et des cosmonautes dans l'espace ?",
+        "answer": "URSS"
+    },
+    {"riddle": "Quel protocole est utilisé pour la communication sur Internet ?",
+    "answer": "TCP/IP"
+    },
+    {
+        "riddle": "Quel langage de programmation est réputé pour sa simplicité et sa lisibilité, souvent utilisé en science des données et en IA ?",
+        "answer": "Python"
+    },
+    {
+        "riddle": "Quelle législation européenne encadre la protection des données personnelles des citoyens ?",
+        "answer": "RGPD"
+    },
+    {
+        "riddle": "Quel composant d'un ordinateur est responsable du traitement des instructions et des calculs ? (3 lettres)",
+        "answer": "CPU"
+    }
+    
+
+]

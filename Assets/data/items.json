@@ -1,0 +1,2800 @@
+{
+    "1": [
+        {
+            "name": "Épée D'Acier Lv1",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Epee_Acier.png",
+            "attributes": {
+                "damage": 12,
+                "durability": 18
+            }
+        },
+        {
+            "name": "Bouclier en Bois Lv1",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "bouclier_bois.png",
+            "attributes": {
+                "protection": 8
+            }
+        },
+        {
+            "name": "Sort de Déflagration Lv1",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "sort_deflagration.png",
+            "attributes": {
+                "damage": 10
+            }
+        },
+        {
+            "name": "Pilon de Poulet Lv1",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Pilon_poulet.png",
+            "attributes": {
+                "healing": 10,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Dague D'Ezio Lv1",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "dague.png",
+            "attributes": {
+                "damage": 14,
+                "durability": 12,
+                "accuracy": 6
+            }
+        },
+        {
+            "name": "Orbe de Poison Lv1",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Orbe_Poison.png",
+            "attributes": {
+                "damage": 12
+            }
+        },
+        {
+            "name": "Carapace de Tortue Lv1",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "Tortue.png",
+            "attributes": {
+                "protection": 12
+            }
+        },
+        {
+            "name": "Potion de Serenite Lv1",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Potion_F.png",
+            "attributes": {
+                "strength": 7,
+                "healing" : 7,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arc de Chasseur Lv1",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "arc.png",
+            "attributes": {
+                "damage": 12,
+                "durability": 20, 
+                "accuracy" : 4
+            }
+        },
+        {
+            "name": "Le Scutum Lv1",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "large_shield_01.png",
+            "attributes": {
+                "protection": 15,
+                "speed": -4
+            }
+        },
+        {
+            "name": "Sort d'Invisibilité",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Sort_Invisibilite.png",
+            "attributes": {
+                "escape" : true
+            }
+        },
+        {
+            "name": "Banane Cavendish Lv1",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Banane.png",
+            "attributes": {
+                "strength": 5,
+                "healing": 12,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Le Katana de Kill Bill Lv1",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Katana1.png",
+            "attributes": {
+                "damage": 20,
+                "durability": 10,
+                "accuracy": 10
+            }
+        },
+        {
+            "name": "Cailloux Magique Lv1",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "cailloux.png",
+            "attributes": {
+                "accuracy": 2,
+                "stock": 5
+            }
+        },
+        {
+            "name": "Capsule Énergie + Lv1",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "capsule.png",
+            "attributes": {
+                "accuracy": 4,
+                "speed": 15,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Amulette de Protection Lv1",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "amulette.png",
+            "attributes": {
+                "protection": 20,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Caleçon a Coeur Lv1",
+            "type": "équipement",
+            "rarity": "commun",
+            "texture": "slip.png",
+            "attributes": {
+                "protection": 4
+            }
+        },
+        {
+            "name": "Balai Nimbus 2000 Lv1",
+            "type": "équipement",
+            "rarity": "commun",
+            "texture": "balais.png",
+            "attributes": {
+                "speed": 12
+            }
+        },
+        {
+            "name": "Arbalète Lv1",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "arbalete.png",
+            "attributes": {
+                "damage": 25,
+                "durability": 16
+            }
+        },
+        {
+            "name": "Bouclier de Chevalier Lv1",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "bouclier_chevalier.png",
+            "attributes": {
+                "protection": 20
+            }
+        },
+        {
+            "name": "Sort de Cage Éclair Lv1",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_cage_eclair.png",
+            "attributes": {
+                "strength": 10
+            }
+        },
+        {
+            "name": "Potion de Polynectar Lv1",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "potion_polynectar.png",
+            "attributes": {
+                "healing": 25,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Lance de Saint George Lv1",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "lance.png",
+            "attributes": {
+                "damage": 40,
+                "accuracy": -40,
+                "durability": 50
+            }
+        },
+        {
+            "name": "Bouclier Tactique Lv1",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "dwarven_buckler_02.png",
+            "attributes": {
+                "protection": 18,
+                "speed": 6
+            }
+        },
+        {
+            "name": "Orbe de Flamme Lv1",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "orbe_flamme.png",
+            "attributes": {
+                "damage" : 16
+            }
+        },
+        {
+            "name": "Canette de Coca Lv1",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "Soda Can.png",
+            "attributes": {
+                "speed": 30,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Batte de Baseball Lv1",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "baseball.png",
+            "attributes": {
+                "damage": 35,
+                "durability": 30
+            }
+        },
+        {
+            "name": "Sort de Téléportation Lv1",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_teleportation.png",
+            "attributes": {
+                "speed": 10,
+                "accuracy": -10
+            }
+        },
+        {
+            "name": "Lunettes de John Lennon Lv1",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "John_Lennon.png",
+            "attributes": {
+                "accuracy": 20,
+                "speed": 5
+            }
+        },
+        {
+            "name": "Casque des Chevaliers Lv1",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "casque_chevalier.png",
+            "attributes": {
+                "protection": 14
+            }
+        },
+        {
+            "name": "Fraise Lv1",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "fraise.png",
+            "attributes": {
+                "healing": 30,
+                "stock": 3
+            }
+        },
+        {
+            "name": "Chaussure Vitesse Lv1",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "chaussure.png",
+            "attributes": {
+                "speed": 20
+            }
+        },
+        {
+            "name": "Super Cape Lv1",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "cape.png",
+            "attributes": {
+                "strength": 14
+            }
+        },
+        {
+            "name": "Bouclier de Vibranium Lv1",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "buckler_05.png",
+            "attributes": {
+                "protection": 24
+            }
+        },
+        {
+            "name": "Sabre Laser Lv1",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "sabre_laser.png",
+            "attributes": {
+                "damage": 35,
+                "durability": 25
+            }
+        },
+        {
+            "name": "Épée Enchantée Lv1",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "epee_enchente.png",
+            "attributes": {
+                "damage": 40,
+                "durability": 40
+            }
+        },
+        {
+            "name": "Bouclier Magique Lv1",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "elven_buckler_01.png",
+            "attributes": {
+                "protection": 30
+            }
+        },
+        {
+            "name": "Sort de Malédiction Lv1",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "sort_malediction.png",
+            "attributes": {
+                "damage": 30
+            }
+        },
+        {
+            "name": "Pizza Delamama Lv1",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "Pizza.png",
+            "attributes": {
+                "healing": 55,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Marteau de Tor Lv1",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Tor.png",
+            "attributes": {
+                "damage": 36,
+                "protection": 8,
+                "durability": 15
+            }
+        },
+        {
+            "name": "Armure Enchantée Lv1",
+            "type": "équipement",
+            "rarity": "épique",
+            "texture": "armure_enchante.png",
+            "attributes": {
+                "protection": 20,
+                "strength": 16
+            }
+        },
+        {
+            "name": "Hache Moderne Lv1",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "modernaxe.png",
+            "attributes": {
+                "damage": 100,
+                "durability": 3
+            }
+        },
+        {
+            "name": "Potion de Force Lv1",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "potion_force.png",
+            "attributes": {
+                "strength": 25,
+                "stock": 2
+            }
+        },
+        {
+            "name": "RGPD Lv1",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "rgpd.png",
+            "attributes": {
+                "protection": 35
+            }
+        },
+        {
+            "name": "Orbe de Vie Lv1",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "orbe_vie.png",
+            "attributes": {
+                "healing": 30
+            }
+        },
+        {
+            "name": "Sort de Tornade Lv1",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "vent.png",
+            "attributes": {
+                "damage": 28,
+                "speed": 20
+            }
+        },
+        {
+            "name": "Dynamite Lv1",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "bombe.png",
+            "attributes": {
+                "damage": 120,
+                "durability": 1
+            }
+        },
+        {
+            "name": "Tarte au Caramel Lv1",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "tarte.png",
+            "attributes": {
+                "healing": 40,
+                "stock": 5
+            }
+        },
+        {
+            "name": "Le Grand Katana Lv1",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Katana2.png",
+            "attributes": {
+                "damage": 35,
+                "durability": 50,
+                "accuracy": 5
+            }
+        },
+        {
+            "name": "Batarang Lv1",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Batarang.png",
+            "attributes": {
+                "damage": 32,
+                "accuracy": 25,
+                "durability": 4
+            }
+        },
+        {
+            "name": "Épée du Dragon Lv1",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "epee_dragon.png",
+            "attributes": {
+                "damage": 60,
+                "durability": 30,
+                "speed": 12
+            }
+        },
+        {
+            "name": "Bouclier Holographique Lv1",
+            "type": "bouclier",
+            "rarity": "légendaire",
+            "texture": "hologramme.png",
+            "attributes": {
+                "protection": 50
+            }
+        },
+        {
+            "name": "Sort de L'Armée des Squelettes Lv1",
+            "type": "livre",
+            "rarity": "légendaire",
+            "texture": "sort_armée.png",
+            "attributes": {
+                "double_damage": true
+            }
+        },
+        {
+            "name": "Élixir d'Immortalité Lv1",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "potion_immo.png",
+            "attributes": {
+                "healing": 100,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arbalète Boostée Lv1",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "arbalete2.png",
+            "attributes": {
+                "damage": 50,
+                "durability": 35,
+                "accuracy": 25
+            }
+        },
+        {
+            "name": "Plastron de César Lv1",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "Cesar.png",
+            "attributes": {
+                "protection": 20,
+                "strength": 8
+            }
+        },
+        {
+            "name": "L'Anneau Unique Lv1",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "ring.png",
+            "attributes": {
+                "speed": 70
+            }
+        },
+        {
+            "name": "Donut D'Homer Lv1",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "Donut.png",
+            "attributes": {
+                "healing": 85,
+                "stock": 3
+            }
+        }
+    ],
+    "2": [
+        {
+            "name": "Épée D'Acier Lv2",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Epee_Acier.png",
+            "attributes": {
+                "damage": 14,
+                "durability": 18
+            }
+        },
+        {
+            "name": "Bouclier en Bois Lv2",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "bouclier_bois.png",
+            "attributes": {
+                "protection": 12
+            }
+        },
+        {
+            "name": "Sort de Déflagration Lv2",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "sort_deflagration.png",
+            "attributes": {
+                "damage": 12
+            }
+        },
+        {
+            "name": "Pilon de Poulet Lv2",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Pilon_poulet.png",
+            "attributes": {
+                "healing": 12,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Dague D'Ezio Lv2",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "dague.png",
+            "attributes": {
+                "damage": 14,
+                "durability": 12,
+                "accuracy": 6
+            }
+        },
+        {
+            "name": "Orbe de Poison Lv2",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Orbe_Poison.png",
+            "attributes": {
+                "damage": 12
+            }
+        },
+        {
+            "name": "Carapace de Tortue Lv2",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "Tortue.png",
+            "attributes": {
+                "protection": 14
+            }
+        },
+        {
+            "name": "Potion de Serenite Lv2",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Potion_F.png",
+            "attributes": {
+                "strength": 8,
+                "healing" : 9,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arc de Chasseur Lv2",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "arc.png",
+            "attributes": {
+                "damage": 16,
+                "durability": 20, 
+                "accuracy" : 4
+            }
+        },
+        {
+            "name": "Le Scutum Lv2",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "large_shield_01.png",
+            "attributes": {
+                "protection": 18,
+                "speed": -5
+            }
+        },
+        {
+            "name": "Sort d'Invisibilité",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Sort_Invisibilite.png",
+            "attributes": {
+                "escape" : true
+            }
+        },
+        {
+            "name": "Banane Cavendish Lv2",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Banane.png",
+            "attributes": {
+                "strength": 5,
+                "healing": 14,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Le Katana de Kill Bill Lv2",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Katana1.png",
+            "attributes": {
+                "damage": 22,
+                "durability": 10,
+                "accuracy": 10
+            }
+        },
+        {
+            "name": "Cailloux Magique Lv2",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "cailloux.png",
+            "attributes": {
+                "accuracy": 3,
+                "stock": 5
+            }
+        },
+        {
+            "name": "Capsule Énergie + Lv2",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "capsule.png",
+            "attributes": {
+                "accuracy": 4,
+                "speed": 15,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Amulette de Protection Lv2",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "amulette.png",
+            "attributes": {
+                "protection": 21,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Caleçon a Coeur Lv2",
+            "type": "équipement",
+            "rarity": "commun",
+            "texture": "slip.png",
+            "attributes": {
+                "protection": 5
+            }
+        },
+        {
+            "name": "Balai Nimbus 2000 Lv2",
+            "type": "équipement",
+            "rarity": "commun",
+            "texture": "balais.png",
+            "attributes": {
+                "speed": 13
+            }
+        },
+        {
+            "name": "Arbalète Lv2",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "arbalete.png",
+            "attributes": {
+                "damage": 27,
+                "durability": 16
+            }
+        },
+        {
+            "name": "Bouclier de Chevalier Lv2",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "bouclier_chevalier.png",
+            "attributes": {
+                "protection": 22
+            }
+        },
+        {
+            "name": "Sort de Cage Éclair Lv2",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_cage_eclair.png",
+            "attributes": {
+                "strength": 12
+            }
+        },
+        {
+            "name": "Potion de Polynectar Lv2",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "potion_polynectar.png",
+            "attributes": {
+                "healing": 26,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Lance de Saint George Lv2",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "lance.png",
+            "attributes": {
+                "damage": 42,
+                "accuracy": -44,
+                "durability": 50
+            }
+        },
+        {
+            "name": "Bouclier Tactique Lv2",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "dwarven_buckler_02.png",
+            "attributes": {
+                "protection": 20,
+                "speed": 7
+            }
+        },
+        {
+            "name": "Orbe de Flamme Lv2",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "orbe_flamme.png",
+            "attributes": {
+                "damage" : 19
+            }
+        },
+        {
+            "name": "Canette de Coca Lv2",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "Soda Can.png",
+            "attributes": {
+                "speed": 32,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Batte de Baseball Lv2",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "baseball.png",
+            "attributes": {
+                "damage": 38,
+                "durability": 32
+            }
+        },
+        {
+            "name": "Sort de Téléportation Lv2",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_teleportation.png",
+            "attributes": {
+                "speed": 12,
+                "accuracy": -10
+            }
+        },
+        {
+            "name": "Lunettes de John Lennon Lv2",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "John_Lennon.png",
+            "attributes": {
+                "accuracy": 24,
+                "speed": 5
+            }
+        },
+        {
+            "name": "Casque des Chevaliers Lv2",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "casque_chevalier.png",
+            "attributes": {
+                "protection": 15
+            }
+        },
+        {
+            "name": "Fraise Lv2",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "fraise.png",
+            "attributes": {
+                "healing": 31,
+                "stock": 3
+            }
+        },
+        {
+            "name": "Chaussure Vitesse Lv2",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "chaussure.png",
+            "attributes": {
+                "speed": 22
+            }
+        },
+        {
+            "name": "Super Cape Lv2",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "cape.png",
+            "attributes": {
+                "strength": 20
+            }
+        },
+        {
+            "name": "Bouclier de Vibranium Lv2",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "buckler_05.png",
+            "attributes": {
+                "protection": 26
+            }
+        },
+        {
+            "name": "Sabre Laser Lv2",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "sabre_laser.png",
+            "attributes": {
+                "damage": 38,
+                "durability": 25
+            }
+        },
+        {
+            "name": "Épée Enchantée Lv2",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "epee_enchente.png",
+            "attributes": {
+                "damage": 44,
+                "durability": 37
+            }
+        },
+        {
+            "name": "Bouclier Magique Lv2",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "elven_buckler_01.png",
+            "attributes": {
+                "protection": 31
+            }
+        },
+        {
+            "name": "Sort de Malédiction Lv2",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "sort_malediction.png",
+            "attributes": {
+                "damage": 32
+            }
+        },
+        {
+            "name": "Pizza Delamama Lv2",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "Pizza.png",
+            "attributes": {
+                "healing": 60,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Marteau de Tor Lv2",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Tor.png",
+            "attributes": {
+                "damage": 38,
+                "protection": 10,
+                "durability": 15
+            }
+        },
+        {
+            "name": "Armure Enchantée Lv2",
+            "type": "équipement",
+            "rarity": "épique",
+            "texture": "armure_enchante.png",
+            "attributes": {
+                "protection": 22,
+                "strength": 15
+            }
+        },
+        {
+            "name": "Hache Moderne Lv2",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "modernaxe.png",
+            "attributes": {
+                "damage": 105,
+                "durability": 3
+            }
+        },
+        {
+            "name": "Potion de Force Lv2",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "potion_force.png",
+            "attributes": {
+                "strength": 30,
+                "stock": 2
+            }
+        },
+        {
+            "name": "RGPD Lv2",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "rgpd.png",
+            "attributes": {
+                "protection": 38
+            }
+        },
+        {
+            "name": "Orbe de Vie Lv2",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "orbe_vie.png",
+            "attributes": {
+                "healing": 31
+            }
+        },
+        {
+            "name": "Sort de Tornade Lv2",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "vent.png",
+            "attributes": {
+                "damage": 30,
+                "speed": 20
+            }
+        },
+        {
+            "name": "Dynamite Lv2",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "bombe.png",
+            "attributes": {
+                "damage": 125,
+                "durability": 1
+            }
+        },
+        {
+            "name": "Tarte au Caramel Lv2",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "tarte.png",
+            "attributes": {
+                "healing": 40,
+                "stock": 6
+            }
+        },
+        {
+            "name": "Le Grand Katana Lv2",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Katana2.png",
+            "attributes": {
+                "damage": 36,
+                "durability": 49,
+                "accuracy": 8
+            }
+        },
+        {
+            "name": "Batarang Lv2",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Batarang.png",
+            "attributes": {
+                "damage": 32,
+                "accuracy": 25,
+                "durability": 4
+            }
+        },
+        {
+            "name": "Épée du Dragon Lv2",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "epee_dragon.png",
+            "attributes": {
+                "damage": 65,
+                "durability": 28,
+                "speed": 12
+            }
+        },
+        {
+            "name": "Bouclier Holographique Lv2",
+            "type": "bouclier",
+            "rarity": "légendaire",
+            "texture": "hologramme.png",
+            "attributes": {
+                "protection": 52
+            }
+        },
+        {
+            "name": "Sort de L'Armée des Squelettes Lv2",
+            "type": "livre",
+            "rarity": "légendaire",
+            "texture": "sort_armée.png",
+            "attributes": {
+                "double_damage": true
+            }
+        },
+        {
+            "name": "Élixir d'Immortalité Lv2",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "potion_immo.png",
+            "attributes": {
+                "healing": 120,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arbalète Boostée Lv2",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "arbalete2.png",
+            "attributes": {
+                "damage": 55,
+                "durability": 32,
+                "accuracy": 25
+            }
+        },
+        {
+            "name": "Plastron de César Lv2",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "Cesar.png",
+            "attributes": {
+                "protection": 22,
+                "strength": 12
+            }
+        },
+        {
+            "name": "L'Anneau Unique Lv2",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "ring.png",
+            "attributes": {
+                "speed": 65,
+                "protection": 10
+            }
+        },
+        {
+            "name": "Donut D'Homer Lv2",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "Donut.png",
+            "attributes": {
+                "healing": 88,
+                "stock": 3
+            }
+        }
+    ],
+    "3": [
+        {
+            "name": "Épée D'Acier Lv3",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Epee_Acier.png",
+            "attributes": {
+                "damage": 16,
+                "durability": 20
+            }
+        },
+        {
+            "name": "Bouclier en Bois Lv3",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "bouclier_bois.png",
+            "attributes": {
+                "protection": 14
+            }
+        },
+        {
+            "name": "Sort de Déflagration Lv3",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "sort_deflagration.png",
+            "attributes": {
+                "damage": 12
+            }
+        },
+        {
+            "name": "Pilon de Poulet Lv3",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Pilon_poulet.png",
+            "attributes": {
+                "healing": 15,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Dague D'Ezio Lv3",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "dague.png",
+            "attributes": {
+                "damage": 18,
+                "durability": 12,
+                "accuracy": 7
+            }
+        },
+        {
+            "name": "Orbe de Poison Lv3",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Orbe_Poison.png",
+            "attributes": {
+                "damage": 12
+            }
+        },
+        {
+            "name": "Carapace de Tortue Lv3",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "Tortue.png",
+            "attributes": {
+                "protection": 18
+            }
+        },
+        {
+            "name": "Potion de Sérenité Lv3",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Potion_F.png",
+            "attributes": {
+                "strength": 10,
+                "healing" : 12,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arc de Chasseur Lv3",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "arc.png",
+            "attributes": {
+                "damage": 20,
+                "durability": 20, 
+                "accuracy" : 4
+            }
+        },
+        {
+            "name": "Le Scutum Lv3",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "large_shield_01.png",
+            "attributes": {
+                "protection": 22,
+                "speed": -6
+            }
+        },
+        {
+            "name": "Sort d'Invisibilité",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Sort_Invisibilite.png",
+            "attributes": {
+                "escape" : true
+            }
+        },
+        {
+            "name": "Banane Cavendish Lv3",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Banane.png",
+            "attributes": {
+                "strength": 6,
+                "healing": 18,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Le Katana de Kill Bill Lv3",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Katana1.png",
+            "attributes": {
+                "damage": 24,
+                "durability": 10,
+                "accuracy": 10
+            }
+        },
+        {
+            "name": "Cailloux Magique Lv3",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "cailloux.png",
+            "attributes": {
+                "accuracy": 4,
+                "stock": 5
+            }
+        },
+        {
+            "name": "Capsule Énergie + Lv3",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "capsule.png",
+            "attributes": {
+                "accuracy": 8,
+                "speed": 15,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Amulette de Protection Lv3",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "amulette.png",
+            "attributes": {
+                "protection": 25,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Caleçon a Coeur Lv3",
+            "type": "équipement",
+            "rarity": "commun",
+            "texture": "slip.png",
+            "attributes": {
+                "protection": 6
+            }
+        },
+        {
+            "name": "Balai Nimbus 2000 Lv3",
+            "type": "équipement",
+            "rarity": "commun",
+            "texture": "balais.png",
+            "attributes": {
+                "speed": 15
+            }
+        },
+        {
+            "name": "Arbalète Lv3",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "arbalete.png",
+            "attributes": {
+                "damage": 28,
+                "durability": 18
+            }
+        },
+        {
+            "name": "Bouclier de Chevalier Lv3",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "bouclier_chevalier.png",
+            "attributes": {
+                "protection": 28
+            }
+        },
+        {
+            "name": "Sort de Cage Éclair Lv3",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_cage_eclair.png",
+            "attributes": {
+                "strength": 14
+            }
+        },
+        {
+            "name": "Potion de Polynectar Lv3",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "potion_polynectar.png",
+            "attributes": {
+                "healing": 28,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Lance de Saint George Lv3",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "lance.png",
+            "attributes": {
+                "damage": 44,
+                "accuracy": -46,
+                "durability": 45
+            }
+        },
+        {
+            "name": "Bouclier Tactique Lv3",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "dwarven_buckler_02.png",
+            "attributes": {
+                "protection": 22,
+                "speed": 7
+            }
+        },
+        {
+            "name": "Orbe de Flamme Lv3",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "orbe_flamme.png",
+            "attributes": {
+                "damage" : 21
+            }
+        },
+        {
+            "name": "Canette de Coca Lv3",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "Soda Can.png",
+            "attributes": {
+                "speed": 34,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Batte de Baseball Lv3",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "baseball.png",
+            "attributes": {
+                "damage": 38,
+                "durability": 28
+            }
+        },
+        {
+            "name": "Sort de Téléportation Lv3",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_teleportation.png",
+            "attributes": {
+                "speed": 20,
+                "accuracy": -10
+            }
+        },
+        {
+            "name": "Lunettes de John Lennon Lv3",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "John_Lennon.png",
+            "attributes": {
+                "accuracy": 24,
+                "speed": 8
+            }
+        },
+        {
+            "name": "Casque des Chevaliers Lv3",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "casque_chevalier.png",
+            "attributes": {
+                "protection": 19
+            }
+        },
+        {
+            "name": "Fraise Lv3",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "fraise.png",
+            "attributes": {
+                "healing": 38,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Chaussure Vitesse Lv3",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "chaussure.png",
+            "attributes": {
+                "speed": 24
+            }
+        },
+        {
+            "name": "Super Cape Lv3",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "cape.png",
+            "attributes": {
+                "strength": 25
+            }
+        },
+        {
+            "name": "Bouclier de Vibranium Lv3",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "buckler_05.png",
+            "attributes": {
+                "protection": 29
+            }
+        },
+        {
+            "name": "Sabre Laser Lv3",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "sabre_laser.png",
+            "attributes": {
+                "damage": 38,
+                "durability": 28
+            }
+        },
+        {
+            "name": "Épée Enchantée Lv3",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "epee_enchente.png",
+            "attributes": {
+                "damage": 45,
+                "durability": 34
+            }
+        },
+        {
+            "name": "Bouclier Magique Lv3",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "elven_buckler_01.png",
+            "attributes": {
+                "protection": 34
+            }
+        },
+        {
+            "name": "Sort de Malédiction Lv3",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "sort_malediction.png",
+            "attributes": {
+                "damage": 34
+            }
+        },
+        {
+            "name": "Pizza Delamama Lv3",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "Pizza.png",
+            "attributes": {
+                "healing": 62,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Marteau de Tor Lv3",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Tor.png",
+            "attributes": {
+                "damage": 40,
+                "protection": 10,
+                "durability": 15
+            }
+        },
+        {
+            "name": "Armure Enchantée Lv3",
+            "type": "équipement",
+            "rarity": "épique",
+            "texture": "armure_enchante.png",
+            "attributes": {
+                "protection": 22,
+                "strength": 15
+            }
+        },
+        {
+            "name": "Hache Moderne Lv3",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "modernaxe.png",
+            "attributes": {
+                "damage": 110,
+                "durability": 3
+            }
+        },
+        {
+            "name": "Potion de Force Lv3",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "potion_force.png",
+            "attributes": {
+                "strength": 32,
+                "stock": 2
+            }
+        },
+        {
+            "name": "RGPD Lv3",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "rgpd.png",
+            "attributes": {
+                "protection": 40
+            }
+        },
+        {
+            "name": "Orbe de Vie Lv3",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "orbe_vie.png",
+            "attributes": {
+                "healing": 33
+            }
+        },
+        {
+            "name": "Sort de Tornade Lv3",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "vent.png",
+            "attributes": {
+                "damage": 31,
+                "speed": 24
+            }
+        },
+        {
+            "name": "Dynamite Lv3",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "bombe.png",
+            "attributes": {
+                "damage": 135,
+                "durability": 1
+            }
+        },
+        {
+            "name": "Tarte au Caramel Lv3",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "tarte.png",
+            "attributes": {
+                "healing": 45,
+                "stock": 6
+            }
+        },
+        {
+            "name": "Le Grand Katana Lv3",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Katana2.png",
+            "attributes": {
+                "damage": 36,
+                "durability": 49,
+                "accuracy": 8
+            }
+        },
+        {
+            "name": "Batarang Lv3",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Batarang.png",
+            "attributes": {
+                "damage": 34,
+                "accuracy": 22,
+                "durability": 4
+            }
+        },
+        {
+            "name": "Épée du Dragon Lv3",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "epee_dragon.png",
+            "attributes": {
+                "damage": 67,
+                "durability": 25,
+                "speed": 12
+            }
+        },
+        {
+            "name": "Bouclier Holographique Lv3",
+            "type": "bouclier",
+            "rarity": "légendaire",
+            "texture": "hologramme.png",
+            "attributes": {
+                "protection": 53
+            }
+        },
+        {
+            "name": "Sort de L'Armée des Squelettes Lv3",
+            "type": "livre",
+            "rarity": "légendaire",
+            "texture": "sort_armée.png",
+            "attributes": {
+                "double_damage": true
+            }
+        },
+        {
+            "name": "Élixir d'Immortalité Lv3",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "potion_immo.png",
+            "attributes": {
+                "healing": 128,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arbalète Boostée Lv3",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "arbalete2.png",
+            "attributes": {
+                "damage": 58,
+                "durability": 32,
+                "accuracy": 25
+            }
+        },
+        {
+            "name": "Plastron de César Lv3",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "Cesar.png",
+            "attributes": {
+                "protection": 25,
+                "strength": 12
+            }
+        },
+        {
+            "name": "L'Anneau Unique Lv3",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "ring.png",
+            "attributes": {
+                "speed": 68,
+                "protection": 10
+            }
+        },
+        {
+            "name": "Donut D'Homer Lv3",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "Donut.png",
+            "attributes": {
+                "healing": 92,
+                "stock": 3
+            }
+        }
+    ],
+    "4": [
+        {
+            "name": "Épée D'Acier Lv4",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Epee_Acier.png",
+            "attributes": {
+                "damage": 20,
+                "durability": 28
+            }
+        },
+        {
+            "name": "Bouclier en bois Lv4",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "bouclier_bois.png",
+            "attributes": {
+                "protection": 20
+            }
+        },
+        {
+            "name": "Sort de Déflagration Lv4",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "sort_deflagration.png",
+            "attributes": {
+                "damage": 17
+            }
+        },
+        {
+            "name": "Cuisse de Poulet Lv4",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Pilon_poulet.png",
+            "attributes": {
+                "healing": 20,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Dague D'Ezio Lv4",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "dague.png",
+            "attributes": {
+                "damage": 22,
+                "durability": 16,
+                "accuracy": 9
+            }
+        },
+        {
+            "name": "Orbe de Poison Lv4",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Orbe_Poison.png",
+            "attributes": {
+                "damage": 17
+            }
+        },
+        {
+            "name": "Carapace de Tortue Lv4",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "Tortue.png",
+            "attributes": {
+                "protection": 22
+            }
+        },
+        {
+            "name": "Potion de Sérenité Lv4",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Potion_F.png",
+            "attributes": {
+                "strength": 14,
+                "healing" : 16,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arc de Chasseur Lv4",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "arc.png",
+            "attributes": {
+                "damage": 24,
+                "durability": 26, 
+                "accuracy" : 6
+            }
+        },
+        {
+            "name": "Le Scutum Lv4",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "large_shield_01.png",
+            "attributes": {
+                "protection": 26,
+                "speed": -4
+            }
+        },
+        
+        {
+            "name": "Banane Cavendish Lv4",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Banane.png",
+            "attributes": {
+                "strength": 9,
+                "healing": 21,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Le Katana de Kill Bill Lv4",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Katana1.png",
+            "attributes": {
+                "damage": 28,
+                "durability": 14,
+                "accuracy": 13
+            }
+        },
+        {
+            "name": "Caillou Magique Lv4",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "cailloux.png",
+            "attributes": {
+                "accuracy": 7,
+                "stock": 5
+            }
+        },
+        {
+            "name": "Capsule Énergie + Lv4",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "capsule.png",
+            "attributes": {
+                "accuracy": 11,
+                "speed": 18,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Amulette de Protection Lv4",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "amulette.png",
+            "attributes": {
+                "protection": 28,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Balai Nimbus 2001 Lv1",
+            "type": "équipement",
+            "rarity": "commun",
+            "texture": "balais.png",
+            "attributes": {
+                "speed": 19
+            }
+        },
+        {
+            "name": "Arbalète Lv4",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "arbalete.png",
+            "attributes": {
+                "damage": 31,
+                "durability": 22
+            }
+        },
+        {
+            "name": "Bouclier de Chevalier Lv4",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "bouclier_chevalier.png",
+            "attributes": {
+                "protection": 31
+            }
+        },
+        {
+            "name": "Sort de Cage Éclair Lv4",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_cage_eclair.png",
+            "attributes": {
+                "strength": 18
+            }
+        },
+        {
+            "name": "Potion de Polynectar Lv4",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "potion_polynectar.png",
+            "attributes": {
+                "healing": 31,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Lance de Saint George Lv4",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "lance.png",
+            "attributes": {
+                "damage": 47,
+                "accuracy": -39,
+                "durability": 48
+            }
+        },
+        {
+            "name": "Bouclier Tactique Lv4",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "dwarven_buckler_02.png",
+            "attributes": {
+                "protection": 27,
+                "speed": 10
+            }
+        },
+        {
+            "name": "Orbe de Flamme Lv4",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "orbe_flamme.png",
+            "attributes": {
+                "damage" : 24
+            }
+        },
+        {
+            "name": "Canette de Coca Lv4",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "Soda Can.png",
+            "attributes": {
+                "speed": 38,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Batte de Baseball Lv4",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "baseball.png",
+            "attributes": {
+                "damage": 42,
+                "durability": 31
+            }
+        },
+        {
+            "name": "Lunettes de John Lennon Lv4",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "John_Lennon.png",
+            "attributes": {
+                "accuracy": 27,
+                "speed": 11
+            }
+        },
+        {
+            "name": "Casque des Chevaliers Lv4",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "casque_chevalier.png",
+            "attributes": {
+                "protection": 22
+            }
+        },
+        {
+            "name": "Fraise survitaminée Lv1",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "fraise.png",
+            "attributes": {
+                "healing": 42,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Chaussure Vitesse Lv4",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "chaussure.png",
+            "attributes": {
+                "speed": 29
+            }
+        },
+        {
+            "name": "Super Cape Lv4",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "cape.png",
+            "attributes": {
+                "strength": 28
+            }
+        },
+        {
+            "name": "Bouclier de Vibranium Lv4",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "buckler_05.png",
+            "attributes": {
+                "protection": 32
+            }
+        },
+        {
+            "name": "Sabre Laser Lv4",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "sabre_laser.png",
+            "attributes": {
+                "damage": 42,
+                "durability": 33
+            }
+        },
+        {
+            "name": "Épée Enchantée Lv4",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "epee_enchente.png",
+            "attributes": {
+                "damage": 48,
+                "durability": 39
+            }
+        },
+        {
+            "name": "Bouclier Magique Lv4",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "elven_buckler_01.png",
+            "attributes": {
+                "protection": 38
+            }
+        },
+        {
+            "name": "Sort de Malédiction Lv4",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "sort_malediction.png",
+            "attributes": {
+                "damage": 39
+            }
+        },
+        {
+            "name": "Pizza Delamama Lv4",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "Pizza.png",
+            "attributes": {
+                "healing": 66,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Marteau de Tor Lv4",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Tor.png",
+            "attributes": {
+                "damage": 44,
+                "protection": 14,
+                "durability": 19
+            }
+        },
+        {
+            "name": "Armure Enchantée Lv4",
+            "type": "équipement",
+            "rarity": "épique",
+            "texture": "armure_enchante.png",
+            "attributes": {
+                "protection": 26,
+                "strength": 19
+            }
+        },
+        {
+            "name": "Hache Moderne Lv4",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "modernaxe.png",
+            "attributes": {
+                "damage": 115,
+                "durability": 8
+            }
+        },
+        {
+            "name": "Potion de Force Lv4",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "potion_force.png",
+            "attributes": {
+                "strength": 37,
+                "stock": 2
+            }
+        },
+        {
+            "name": "RGPD Lv4",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "rgpd.png",
+            "attributes": {
+                "protection": 45
+            }
+        },
+        {
+            "name": "Orbe de Vie Lv4",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "orbe_vie.png",
+            "attributes": {
+                "healing": 37
+            }
+        },
+        {
+            "name": "Sort de Tornade Lv4",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "vent.png",
+            "attributes": {
+                "damage": 34,
+                "speed": 29
+            }
+        },
+        {
+            "name": "Dynamite Lv4",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "bombe.png",
+            "attributes": {
+                "damage": 139,
+                "durability": 1
+            }
+        },
+        {
+            "name": "Tarte au Caramel Lv4",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "tarte.png",
+            "attributes": {
+                "healing": 48,
+                "stock": 6
+            }
+        },
+        {
+            "name": "Le Grand Katana Lv4",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Katana2.png",
+            "attributes": {
+                "damage": 40,
+                "durability": 52,
+                "accuracy": 11
+            }
+        },
+        {
+            "name": "Batarang Lv4",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Batarang.png",
+            "attributes": {
+                "damage": 38,
+                "accuracy": 27,
+                "durability": 5
+            }
+        },
+        {
+            "name": "Épée du Dragon Lv4",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "epee_dragon.png",
+            "attributes": {
+                "damage": 70,
+                "durability": 28,
+                "speed": 16
+            }
+        },
+        {
+            "name": "Bouclier Holographique Lv4",
+            "type": "bouclier",
+            "rarity": "légendaire",
+            "texture": "hologramme.png",
+            "attributes": {
+                "protection": 58
+            }
+        },
+        {
+            "name": "Élixir d'Immortalité Lv4",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "potion_immo.png",
+            "attributes": {
+                "healing": 132,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arbalète Boostée Lv4",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "arbalete2.png",
+            "attributes": {
+                "damage": 61,
+                "durability": 36,
+                "accuracy": 29
+            }
+        },
+        {
+            "name": "Plastron de César Lv4",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "Cesar.png",
+            "attributes": {
+                "protection": 28,
+                "strength": 16
+            }
+        },
+        {
+            "name": "L'Anneau Unique Lv4",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "ring.png",
+            "attributes": {
+                "speed": 71,
+                "protection": 13
+            }
+        },
+        {
+            "name": "D'oh-nut D'Homer Lv4",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "Donut.png",
+            "attributes": {
+                "healing": 96,
+                "stock": 3
+            }
+        }
+    ],
+    "5": [
+        {
+            "name": "Épée D'Acier Lv5",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Epee_Acier.png",
+            "attributes": {
+                "damage": 24,
+                "durability": 31
+            }
+        },
+        {
+            "name": "Bouclier en bois Lv5",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "bouclier_bois.png",
+            "attributes": {
+                "protection": 24
+            }
+        },
+        {
+            "name": "Sort de Déflagration Lv5",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "sort_deflagration.png",
+            "attributes": {
+                "damage": 21
+            }
+        },
+        {
+            "name": "Cuisse de Poulet Lv5",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Pilon_poulet.png",
+            "attributes": {
+                "healing": 24,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Dague D'Ezio Lv5",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "dague.png",
+            "attributes": {
+                "damage": 26,
+                "durability": 20,
+                "accuracy": 12
+            }
+        },
+        {
+            "name": "Orbe de Poison Lv5",
+            "type": "livre",
+            "rarity": "commun",
+            "texture": "Orbe_Poison.png",
+            "attributes": {
+                "damage": 21
+            }
+        },
+        {
+            "name": "Carapace de Tortue Lv5",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "Tortue.png",
+            "attributes": {
+                "protection": 27
+            }
+        },
+        {
+            "name": "Potion de Sérenité Lv5",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Potion_F.png",
+            "attributes": {
+                "strength": 19,
+                "healing" : 21,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arc de Chasseur Lv5",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "arc.png",
+            "attributes": {
+                "damage": 28,
+                "durability": 31, 
+                "accuracy" : 9
+            }
+        },
+        {
+            "name": "Le Scutum Lv5",
+            "type": "bouclier",
+            "rarity": "commun",
+            "texture": "large_shield_01.png",
+            "attributes": {
+                "protection": 30,
+                "speed": -2
+            }
+        },
+        
+        {
+            "name": "Banane Cavendish Lv5",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "Banane.png",
+            "attributes": {
+                "strength": 12,
+                "healing": 25,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Le Katana de Kill Bill Lv5",
+            "type": "arme",
+            "rarity": "commun",
+            "texture": "Katana1.png",
+            "attributes": {
+                "damage": 32,
+                "durability": 20,
+                "accuracy": 18
+            }
+        },
+        {
+            "name": "Pierre Runique Lv5",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "cailloux.png",
+            "attributes": {
+                "accuracy": 11,
+                "stock": 5
+            }
+        },
+        {
+            "name": "Capsule Énergie + Lv5",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "capsule.png",
+            "attributes": {
+                "accuracy": 16,
+                "speed": 22,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Amulette de Protection Lv5",
+            "type": "objet usage unique",
+            "rarity": "commun",
+            "texture": "amulette.png",
+            "attributes": {
+                "protection": 32,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Balai Nimbus 2001 Lv2",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "balais.png",
+            "attributes": {
+                "speed": 22
+            }
+        },
+        {
+            "name": "Arbalète Lv5",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "arbalete.png",
+            "attributes": {
+                "damage": 36,
+                "durability": 30
+            }
+        },
+        {
+            "name": "Bouclier de Chevalier Lv5",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "bouclier_chevalier.png",
+            "attributes": {
+                "protection": 37
+            }
+        },
+        {
+            "name": "Sort de Cage Éclair Lv5",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "sort_cage_eclair.png",
+            "attributes": {
+                "strength": 23
+            }
+        },
+        {
+            "name": "Potion de Polynectar Lv5",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "potion_polynectar.png",
+            "attributes": {
+                "healing": 35,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Lance de Saint George Lv5",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "lance.png",
+            "attributes": {
+                "damage": 54,
+                "accuracy": -25,
+                "durability": 53
+            }
+        },
+        {
+            "name": "Bouclier Tactique Lv5",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "dwarven_buckler_02.png",
+            "attributes": {
+                "protection": 32,
+                "speed": 15
+            }
+        },
+        {
+            "name": "Orbe de Flamme Lv5",
+            "type": "livre",
+            "rarity": "rare",
+            "texture": "orbe_flamme.png",
+            "attributes": {
+                "damage" : 28
+            }
+        },
+        {
+            "name": "Canette de Coca Lv5",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "Soda Can.png",
+            "attributes": {
+                "speed": 43,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Batte de Baseball Lv5",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "baseball.png",
+            "attributes": {
+                "damage": 48,
+                "durability": 38
+            }
+        },
+        {
+            "name": "Lunettes de John Lennon Lv5",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "John_Lennon.png",
+            "attributes": {
+                "accuracy": 31,
+                "speed": 16
+            }
+        },
+        {
+            "name": "Casque des Chevaliers Lv5",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "casque_chevalier.png",
+            "attributes": {
+                "protection": 28
+            }
+        },
+        {
+            "name": "Fraise survitaminée Lv2",
+            "type": "objet usage unique",
+            "rarity": "rare",
+            "texture": "fraise.png",
+            "attributes": {
+                "healing": 50,
+                "stock": 2
+            }
+        },
+        {
+            "name": "Chaussure Vitesse Lv5",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "chaussure.png",
+            "attributes": {
+                "speed": 33
+            }
+        },
+        {
+            "name": "Super Cape Lv5",
+            "type": "équipement",
+            "rarity": "rare",
+            "texture": "cape.png",
+            "attributes": {
+                "strength": 33
+            }
+        },
+        {
+            "name": "Bouclier de Vibranium Lv5",
+            "type": "bouclier",
+            "rarity": "rare",
+            "texture": "buckler_05.png",
+            "attributes": {
+                "protection": 37
+            }
+        },
+        {
+            "name": "Sabre Laser Lv5",
+            "type": "arme",
+            "rarity": "rare",
+            "texture": "sabre_laser.png",
+            "attributes": {
+                "damage": 46,
+                "durability": 39
+            }
+        },
+        {
+            "name": "Épée Enchantée Lv5",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "epee_enchente.png",
+            "attributes": {
+                "damage": 52,
+                "durability": 43
+            }
+        },
+        {
+            "name": "Bouclier Magique Lv5",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "elven_buckler_01.png",
+            "attributes": {
+                "protection": 43
+            }
+        },
+        {
+            "name": "Sort de Malédiction Lv5",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "sort_malediction.png",
+            "attributes": {
+                "damage": 42
+            }
+        },
+        {
+            "name": "Pizza Delamama Lv5",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "Pizza.png",
+            "attributes": {
+                "healing": 72,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Marteau de Tor Lv5",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Tor.png",
+            "attributes": {
+                "damage": 49,
+                "protection": 20,
+                "durability": 22
+            }
+        },
+        {
+            "name": "Armure Enchantée Lv5",
+            "type": "équipement",
+            "rarity": "épique",
+            "texture": "armure_enchante.png",
+            "attributes": {
+                "protection": 30,
+                "strength": 22
+            }
+        },
+        {
+            "name": "Hache Moderne Lv5",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "modernaxe.png",
+            "attributes": {
+                "damage": 120,
+                "durability": 12
+            }
+        },
+        {
+            "name": "Potion de Force Lv5",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "potion_force.png",
+            "attributes": {
+                "strength": 41,
+                "stock": 2
+            }
+        },
+        {
+            "name": "RGPD Lv5",
+            "type": "bouclier",
+            "rarity": "épique",
+            "texture": "rgpd.png",
+            "attributes": {
+                "protection": 50
+            }
+        },
+        {
+            "name": "Orbe de Vie Lv5",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "orbe_vie.png",
+            "attributes": {
+                "healing": 41
+            }
+        },
+        {
+            "name": "Sort de Tornade Lv5",
+            "type": "livre",
+            "rarity": "épique",
+            "texture": "vent.png",
+            "attributes": {
+                "damage": 40,
+                "speed": 32
+            }
+        },
+        {
+            "name": "Dynamite Lv5",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "bombe.png",
+            "attributes": {
+                "damage": 143,
+                "durability": 1
+            }
+        },
+        {
+            "name": "Tarte au Caramel Lv5",
+            "type": "objet usage unique",
+            "rarity": "épique",
+            "texture": "tarte.png",
+            "attributes": {
+                "healing": 51,
+                "stock": 6
+            }
+        },
+        {
+            "name": "Le Grand Katana Lv5",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Katana2.png",
+            "attributes": {
+                "damage": 45,
+                "durability": 56,
+                "accuracy": 16
+            }
+        },
+        {
+            "name": "Batarang Lv5",
+            "type": "arme",
+            "rarity": "épique",
+            "texture": "Batarang.png",
+            "attributes": {
+                "damage": 42,
+                "accuracy": 31,
+                "durability": 7
+            }
+        },
+        {
+            "name": "Épée du Dragon Lv5",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "epee_dragon.png",
+            "attributes": {
+                "damage": 75,
+                "durability": 35,
+                "speed": 22
+            }
+        },
+        {
+            "name": "Bouclier Holographique Lv5",
+            "type": "bouclier",
+            "rarity": "légendaire",
+            "texture": "hologramme.png",
+            "attributes": {
+                "protection": 63
+            }
+        },
+        {
+            "name": "Élixir d'Immortalité Lv5",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "potion_immo.png",
+            "attributes": {
+                "healing": 140,
+                "stock": 1
+            }
+        },
+        {
+            "name": "Arbalète Boostée Lv5",
+            "type": "arme",
+            "rarity": "légendaire",
+            "texture": "arbalete2.png",
+            "attributes": {
+                "damage": 66,
+                "durability": 41,
+                "accuracy": 33
+            }
+        },
+        {
+            "name": "Plastron de César Lv5",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "Cesar.png",
+            "attributes": {
+                "protection": 32,
+                "strength": 21
+            }
+        },
+        {
+            "name": "L'Anneau Unique Lv5",
+            "type": "équipement",
+            "rarity": "légendaire",
+            "texture": "ring.png",
+            "attributes": {
+                "speed": 77,
+                "protection": 20
+            }
+        },
+        {
+            "name": "Donut D'Homer Lv5",
+            "type": "objet usage unique",
+            "rarity": "légendaire",
+            "texture": "Donut.png",
+            "attributes": {
+                "healing": 100,
+                "stock": 3
+            }
+        }
+    ]
+
+}
