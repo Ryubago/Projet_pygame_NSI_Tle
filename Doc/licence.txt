@@ -1,0 +1,8 @@
+                                Licence
+
+
+
+Licence : GNU General Public License v3.0 or later (GPL v3+)
+
+Cette licence vous permet de partager et de modifier le logiciel, à condition que toutes les copies et modifications soient également distribuées sous la même licence.
+
